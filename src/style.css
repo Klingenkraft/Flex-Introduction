@@ -1,0 +1,14 @@
+h1{
+  text-align:center;
+}
+.flex{
+  display:flex;
+  justify-content:center;
+  justify-content:space-between;
+}
+img{
+  width:400px;
+}
+body{
+  background:#E285DD
+}
